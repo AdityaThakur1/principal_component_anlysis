@@ -5,3 +5,7 @@ In this example we have a datase of 100 imgaes of teapots of dimension 38x50 pix
 
 Below are the results, with before and after reconstruction with PCA.
 ![Alt text](https://github.com/AdityaThakur1/principal_component_anlysis/blob/main/results/Picture1.png?raw=true "Example 1")
+
+![Alt text](https://github.com/AdityaThakur1/principal_component_anlysis/blob/main/results/Picture2.png?raw=true "Example 2")
+
+![Alt text](https://github.com/AdityaThakur1/principal_component_anlysis/blob/main/results/Picture3.png?raw=true "Example 3")
